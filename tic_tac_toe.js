@@ -1,6 +1,6 @@
 
 
-//Gameboard
+//Gameboard.
 
 const CPU_PLAYER = (function(){
 
